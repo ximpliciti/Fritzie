@@ -1,0 +1,2 @@
+# Fritzie
+GitHub Pages
